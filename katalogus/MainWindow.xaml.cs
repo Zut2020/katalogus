@@ -48,14 +48,20 @@ namespace katalogus
             {
                 MySqlCommand parancs = new MySqlCommand();
                 parancs.Connection = conn;
-                parancs.CommandText = "INSERT INTO vstest.konyvek VALUES(NULL, 'cim', 'szerzo', 'isbn');";
+                parancs.CommandText = "INSERT INTO vstest.konyvek VALUES(NULL, @cim,@szerzo, @isbn);";
                 parancs.Prepare();
+
+                parancs.Parameters.AddWithValue("@cim", cim.Text);
+                parancs.Parameters.AddWithValue("@szerzo", szerzo.Text);
+                parancs.Parameters.AddWithValue("@isbn", isbn.Text);
+                //parancs.Parameters.AddWithValue("@cim", cim.Text);
                 parancs.ExecuteNonQuery();
             }
             catch (MySqlException ex)
             {
                 status.Text = ex.ToString();
             }
+            status.Text = "Elküldve.";
         }
     }
 }
