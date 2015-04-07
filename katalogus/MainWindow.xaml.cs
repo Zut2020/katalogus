@@ -46,7 +46,10 @@ namespace katalogus
         {
             try
             {
-                MySqlCommand parancs = new MySqlCommand("INSERT INTO vstest.konyvek VALUE (NULL, " + cim.Text + ", " + szerzo.Text + ", " + isbn.Text, conn);
+                MySqlCommand parancs = new MySqlCommand();
+                parancs.Connection = conn;
+                parancs.CommandText = "INSERT INTO vstest.konyvek VALUES(NULL, 'cim', 'szerzo', 'isbn');";
+                parancs.Prepare();
                 parancs.ExecuteNonQuery();
             }
             catch (MySqlException ex)

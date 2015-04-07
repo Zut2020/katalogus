@@ -14,3 +14,13 @@ c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug
 C:\Users\Dev\Documents\GitHub\katalogus\katalogus\bin\Debug\katalogus.exe.config
 C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.exe
 C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.pdb
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\bin\Debug\katalogus.exe
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\bin\Debug\katalogus.pdb
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.csprojResolveAssemblyReference.cache
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\MainWindow.baml
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\MainWindow.g.cs
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\App.g.cs
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus_MarkupCompile.cache
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.g.resources
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.Properties.Resources.resources
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.csproj.GenerateResource.Cache
