@@ -24,3 +24,5 @@ C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus_MarkupComp
 C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.g.resources
 C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.Properties.Resources.resources
 C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.csproj.GenerateResource.Cache
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\Window1.baml
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\Window1.g.cs
