@@ -1,0 +1,15 @@
+﻿<Window x:Class="katalogus.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="308" Width="525">
+    <Grid Margin="0,0,0,9">
+        <TextBox x:Name="cim" HorizontalAlignment="Left" Height="37" Margin="10,10,0,0" TextWrapping="Wrap" Text="Cím" VerticalAlignment="Top" Width="497" FontSize="18"/>
+        <TextBox x:Name="szerzo" HorizontalAlignment="Left" Height="25" Margin="10,52,0,0" TextWrapping="Wrap" Text="Szerző" VerticalAlignment="Top" Width="497" FontSize="16"/>
+        <TextBox x:Name="isbn" HorizontalAlignment="Left" Height="22" Margin="10,82,0,0" TextWrapping="Wrap" Text="ISBN&#xD;&#xA;" VerticalAlignment="Top" Width="247"/>
+        <Button x:Name="kuld" Click="kuld_Click" Content="Küldés"  HorizontalAlignment="Left" Margin="375,109,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBlock x:Name="status" HorizontalAlignment="Left" Margin="10,109,0,0" TextWrapping="Wrap" Text="Státusz" VerticalAlignment="Top" Height="140" Width="289" FontSize="10"/>
+        <Button x:Name="csatlakoz" Click="csatlakoz_Click" Content="Button" HorizontalAlignment="Left" Margin="375,82,0,0" VerticalAlignment="Top" Width="75"/>
+
+
+    </Grid>
+</Window>

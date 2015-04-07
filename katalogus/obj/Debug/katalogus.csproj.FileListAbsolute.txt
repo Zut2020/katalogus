@@ -1,0 +1,16 @@
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\bin\Debug\katalogus.exe.config
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\bin\Debug\katalogus.exe
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\bin\Debug\katalogus.pdb
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\katalogus.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\MainWindow.baml
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\MainWindow.g.cs
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\App.g.cs
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\katalogus_MarkupCompile.cache
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\katalogus.g.resources
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\katalogus.Properties.Resources.resources
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\katalogus.csproj.GenerateResource.Cache
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\katalogus.exe
+c:\users\dev\documents\visual studio 2013\Projects\katalogus\katalogus\obj\Debug\katalogus.pdb
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\bin\Debug\katalogus.exe.config
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.exe
+C:\Users\Dev\Documents\GitHub\katalogus\katalogus\obj\Debug\katalogus.pdb
